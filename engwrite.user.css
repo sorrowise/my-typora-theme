@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia,KaiTi;
+    font-size: 18px;
+    line-height: 2em
+}
+
+code {
+    font-family: Courier New,Ubuntu Mono;
+    font-size: 18px;
+    border-width: 0px;
+    font-weight: 600;
+    background-color: transparent;
+}
+
+pre {
+    font-family: Consolas,Ubuntu Mono;
+    font-style: italic;
+    font-size: 16px;
+    background-color: #FCF5ED;
+    border-width: 0px;
+    font-weight: bold;
+}
+
+table {
+    font-size: 14px;
+}
