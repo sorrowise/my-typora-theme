@@ -1,7 +1,37 @@
 body {
-    font-family: "Times New Roman",KaiTi;
+    font-family: "Times New Roman",KaiTi,STKaiti,serif;
     font-size: 22px;
     line-height: 2em
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.math { font-size: 1.5rem; }
+
+code {
+    /* font-family: Courier New,Ubuntu Mono; */
+    font-size: 22px;
+    /* border-width: 0px;
+    font-weight: 600;
+    background-color: transparent; */
+}
+
+/* pre {
+    font-family: Consolas,Ubuntu Mono;
+    font-style: italic;
+    font-size: 16px;
+    background-color: #FCF5ED;
+    border-width: 0px;
+    font-weight: bold;
+} */
+
+p {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
 }
 
 table {
